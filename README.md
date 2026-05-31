@@ -57,6 +57,18 @@ O objetivo é simular uma estação espacial capaz de monitorar sensores, contro
 
 ---
 
+## 📷 Prints do terminal
+
+---
+
+- Interface principal: <img width="357" height="180" alt="print1_terminal" src="https://github.com/user-attachments/assets/eb4200dd-23da-4110-bbd2-a472c518a923" />
+- Opção 1: <img width="382" height="215" alt="print2_terminal" src="https://github.com/user-attachments/assets/302d9c52-7fed-4117-9ed7-8019475a1f54" />
+- Opção 2: <img width="382" height="215" alt="print3_terminal" src="https://github.com/user-attachments/assets/1c1456fb-79eb-4371-b428-1906778a0101" />
+- Opção 3: <img width="382" height="188" alt="print4_terminal" src="https://github.com/user-attachments/assets/d052d7eb-cc1b-4d30-9959-7e776dca5d06" />
+
+---
+
+
 ## 🖥️ Como Executar
 
 1. Clone o repositório:
